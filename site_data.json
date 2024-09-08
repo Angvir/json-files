@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "title": "Home",
+      "url": "https://yoursite.com/home",
+      "content": "Benvenuto al nostro sito. Qui troverai informazioni utili."
+    },
+    {
+      "title": "About Us",
+      "url": "https://yoursite.com/about",
+      "content": "Chi siamo. La nostra azienda è stata fondata nel 2000."
+    },
+    {
+      "title": "Services",
+      "url": "https://yoursite.com/services",
+      "content": "Offriamo una vasta gamma di servizi, inclusi consulenze tecniche."
+    }
+  ]
+}
